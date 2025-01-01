@@ -1,9 +1,3 @@
-# IMDB-Movie-Analysis-Project-
-
-Here’s a structured project report you can use for your GitHub repository. It includes an overview, methodology, results, and other essential sections.
-
----
-
 # IMDB Movie Performance Analysis | Self Project
 
 ## **Project Overview**
